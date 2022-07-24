@@ -1,0 +1,32 @@
+C:\Users\Ahmad Shahram Areeb\Desktop\DgPays Back-End\DGPays Back-End Test\1st  HomeWork -CreditCard\bin\Debug\net5.0\1st  HomeWork -CreditCard.exe
+C:\Users\Ahmad Shahram Areeb\Desktop\DgPays Back-End\DGPays Back-End Test\1st  HomeWork -CreditCard\bin\Debug\net5.0\1st  HomeWork -CreditCard.deps.json
+C:\Users\Ahmad Shahram Areeb\Desktop\DgPays Back-End\DGPays Back-End Test\1st  HomeWork -CreditCard\bin\Debug\net5.0\1st  HomeWork -CreditCard.runtimeconfig.json
+C:\Users\Ahmad Shahram Areeb\Desktop\DgPays Back-End\DGPays Back-End Test\1st  HomeWork -CreditCard\bin\Debug\net5.0\1st  HomeWork -CreditCard.runtimeconfig.dev.json
+C:\Users\Ahmad Shahram Areeb\Desktop\DgPays Back-End\DGPays Back-End Test\1st  HomeWork -CreditCard\bin\Debug\net5.0\1st  HomeWork -CreditCard.dll
+C:\Users\Ahmad Shahram Areeb\Desktop\DgPays Back-End\DGPays Back-End Test\1st  HomeWork -CreditCard\bin\Debug\net5.0\1st  HomeWork -CreditCard.pdb
+C:\Users\Ahmad Shahram Areeb\Desktop\DgPays Back-End\DGPays Back-End Test\1st  HomeWork -CreditCard\obj\Debug\net5.0\1st  HomeWork -CreditCard.csproj.AssemblyReference.cache
+C:\Users\Ahmad Shahram Areeb\Desktop\DgPays Back-End\DGPays Back-End Test\1st  HomeWork -CreditCard\obj\Debug\net5.0\1st  HomeWork -CreditCard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmad Shahram Areeb\Desktop\DgPays Back-End\DGPays Back-End Test\1st  HomeWork -CreditCard\obj\Debug\net5.0\1st  HomeWork -CreditCard.AssemblyInfoInputs.cache
+C:\Users\Ahmad Shahram Areeb\Desktop\DgPays Back-End\DGPays Back-End Test\1st  HomeWork -CreditCard\obj\Debug\net5.0\1st  HomeWork -CreditCard.AssemblyInfo.cs
+C:\Users\Ahmad Shahram Areeb\Desktop\DgPays Back-End\DGPays Back-End Test\1st  HomeWork -CreditCard\obj\Debug\net5.0\1st  HomeWork -CreditCard.csproj.CoreCompileInputs.cache
+C:\Users\Ahmad Shahram Areeb\Desktop\DgPays Back-End\DGPays Back-End Test\1st  HomeWork -CreditCard\obj\Debug\net5.0\1st  HomeWork -CreditCard.dll
+C:\Users\Ahmad Shahram Areeb\Desktop\DgPays Back-End\DGPays Back-End Test\1st  HomeWork -CreditCard\obj\Debug\net5.0\refint\1st  HomeWork -CreditCard.dll
+C:\Users\Ahmad Shahram Areeb\Desktop\DgPays Back-End\DGPays Back-End Test\1st  HomeWork -CreditCard\obj\Debug\net5.0\1st  HomeWork -CreditCard.pdb
+C:\Users\Ahmad Shahram Areeb\Desktop\DgPays Back-End\DGPays Back-End Test\1st  HomeWork -CreditCard\obj\Debug\net5.0\1st  HomeWork -CreditCard.genruntimeconfig.cache
+C:\Users\Ahmad Shahram Areeb\Desktop\DgPays Back-End\DGPays Back-End Test\1st  HomeWork -CreditCard\obj\Debug\net5.0\ref\1st  HomeWork -CreditCard.dll
+D:\Dgpays Code\DGAkademi\Back-End\Homework 01\bin\Debug\net5.0\1st  HomeWork -CreditCard.exe
+D:\Dgpays Code\DGAkademi\Back-End\Homework 01\bin\Debug\net5.0\1st  HomeWork -CreditCard.deps.json
+D:\Dgpays Code\DGAkademi\Back-End\Homework 01\bin\Debug\net5.0\1st  HomeWork -CreditCard.runtimeconfig.json
+D:\Dgpays Code\DGAkademi\Back-End\Homework 01\bin\Debug\net5.0\1st  HomeWork -CreditCard.runtimeconfig.dev.json
+D:\Dgpays Code\DGAkademi\Back-End\Homework 01\bin\Debug\net5.0\1st  HomeWork -CreditCard.dll
+D:\Dgpays Code\DGAkademi\Back-End\Homework 01\bin\Debug\net5.0\1st  HomeWork -CreditCard.pdb
+D:\Dgpays Code\DGAkademi\Back-End\Homework 01\obj\Debug\net5.0\1st  HomeWork -CreditCard.csproj.AssemblyReference.cache
+D:\Dgpays Code\DGAkademi\Back-End\Homework 01\obj\Debug\net5.0\1st  HomeWork -CreditCard.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dgpays Code\DGAkademi\Back-End\Homework 01\obj\Debug\net5.0\1st  HomeWork -CreditCard.AssemblyInfoInputs.cache
+D:\Dgpays Code\DGAkademi\Back-End\Homework 01\obj\Debug\net5.0\1st  HomeWork -CreditCard.AssemblyInfo.cs
+D:\Dgpays Code\DGAkademi\Back-End\Homework 01\obj\Debug\net5.0\1st  HomeWork -CreditCard.csproj.CoreCompileInputs.cache
+D:\Dgpays Code\DGAkademi\Back-End\Homework 01\obj\Debug\net5.0\1st  HomeWork -CreditCard.dll
+D:\Dgpays Code\DGAkademi\Back-End\Homework 01\obj\Debug\net5.0\refint\1st  HomeWork -CreditCard.dll
+D:\Dgpays Code\DGAkademi\Back-End\Homework 01\obj\Debug\net5.0\1st  HomeWork -CreditCard.pdb
+D:\Dgpays Code\DGAkademi\Back-End\Homework 01\obj\Debug\net5.0\1st  HomeWork -CreditCard.genruntimeconfig.cache
+D:\Dgpays Code\DGAkademi\Back-End\Homework 01\obj\Debug\net5.0\ref\1st  HomeWork -CreditCard.dll
