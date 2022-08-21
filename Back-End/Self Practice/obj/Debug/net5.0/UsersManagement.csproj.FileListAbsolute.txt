@@ -1,0 +1,52 @@
+C:\Users\Ahmad Shahram Areeb\Desktop\DgPays Back-End\Teams Egitim\UsersManagement\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Ahmad Shahram Areeb\Desktop\DgPays Back-End\Teams Egitim\UsersManagement\bin\Debug\net5.0\appsettings.json
+C:\Users\Ahmad Shahram Areeb\Desktop\DgPays Back-End\Teams Egitim\UsersManagement\bin\Debug\net5.0\UsersManagement.exe
+C:\Users\Ahmad Shahram Areeb\Desktop\DgPays Back-End\Teams Egitim\UsersManagement\bin\Debug\net5.0\UsersManagement.deps.json
+C:\Users\Ahmad Shahram Areeb\Desktop\DgPays Back-End\Teams Egitim\UsersManagement\bin\Debug\net5.0\UsersManagement.runtimeconfig.json
+C:\Users\Ahmad Shahram Areeb\Desktop\DgPays Back-End\Teams Egitim\UsersManagement\bin\Debug\net5.0\UsersManagement.runtimeconfig.dev.json
+C:\Users\Ahmad Shahram Areeb\Desktop\DgPays Back-End\Teams Egitim\UsersManagement\bin\Debug\net5.0\UsersManagement.dll
+C:\Users\Ahmad Shahram Areeb\Desktop\DgPays Back-End\Teams Egitim\UsersManagement\bin\Debug\net5.0\UsersManagement.pdb
+C:\Users\Ahmad Shahram Areeb\Desktop\DgPays Back-End\Teams Egitim\UsersManagement\obj\Debug\net5.0\UsersManagement.csproj.AssemblyReference.cache
+C:\Users\Ahmad Shahram Areeb\Desktop\DgPays Back-End\Teams Egitim\UsersManagement\obj\Debug\net5.0\UsersManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmad Shahram Areeb\Desktop\DgPays Back-End\Teams Egitim\UsersManagement\obj\Debug\net5.0\UsersManagement.AssemblyInfoInputs.cache
+C:\Users\Ahmad Shahram Areeb\Desktop\DgPays Back-End\Teams Egitim\UsersManagement\obj\Debug\net5.0\UsersManagement.AssemblyInfo.cs
+C:\Users\Ahmad Shahram Areeb\Desktop\DgPays Back-End\Teams Egitim\UsersManagement\obj\Debug\net5.0\UsersManagement.csproj.CoreCompileInputs.cache
+C:\Users\Ahmad Shahram Areeb\Desktop\DgPays Back-End\Teams Egitim\UsersManagement\obj\Debug\net5.0\UsersManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ahmad Shahram Areeb\Desktop\DgPays Back-End\Teams Egitim\UsersManagement\obj\Debug\net5.0\scopedcss\bundle\UsersManagement.styles.css
+C:\Users\Ahmad Shahram Areeb\Desktop\DgPays Back-End\Teams Egitim\UsersManagement\obj\Debug\net5.0\staticwebassets\UsersManagement.StaticWebAssets.Manifest.cache
+C:\Users\Ahmad Shahram Areeb\Desktop\DgPays Back-End\Teams Egitim\UsersManagement\obj\Debug\net5.0\UsersManagement.RazorTargetAssemblyInfo.cache
+C:\Users\Ahmad Shahram Areeb\Desktop\DgPays Back-End\Teams Egitim\UsersManagement\obj\Debug\net5.0\UsersManagement.dll
+C:\Users\Ahmad Shahram Areeb\Desktop\DgPays Back-End\Teams Egitim\UsersManagement\obj\Debug\net5.0\refint\UsersManagement.dll
+C:\Users\Ahmad Shahram Areeb\Desktop\DgPays Back-End\Teams Egitim\UsersManagement\obj\Debug\net5.0\UsersManagement.pdb
+C:\Users\Ahmad Shahram Areeb\Desktop\DgPays Back-End\Teams Egitim\UsersManagement\obj\Debug\net5.0\UsersManagement.genruntimeconfig.cache
+C:\Users\Ahmad Shahram Areeb\Desktop\DgPays Back-End\Teams Egitim\UsersManagement\obj\Debug\net5.0\ref\UsersManagement.dll
+C:\Users\Ahmad Shahram Areeb\Desktop\DgPays Back-End\Teams Egitim\UsersManagement\bin\Debug\net5.0\Bogus.dll
+C:\Users\Ahmad Shahram Areeb\Desktop\DgPays Back-End\Teams Egitim\UsersManagement\bin\Debug\net5.0\Castle.Core.dll
+C:\Users\Ahmad Shahram Areeb\Desktop\DgPays Back-End\Teams Egitim\UsersManagement\bin\Debug\net5.0\FakeItEasy.dll
+C:\Users\Ahmad Shahram Areeb\Desktop\DgPays Back-End\Teams Egitim\UsersManagement\obj\Debug\net5.0\UsersManagement.csproj.CopyComplete
+D:\Dgpays Code\DGAkademi\Back-End\Self Practice\bin\Debug\net5.0\appsettings.Development.json
+D:\Dgpays Code\DGAkademi\Back-End\Self Practice\bin\Debug\net5.0\appsettings.json
+D:\Dgpays Code\DGAkademi\Back-End\Self Practice\bin\Debug\net5.0\UsersManagement.exe
+D:\Dgpays Code\DGAkademi\Back-End\Self Practice\bin\Debug\net5.0\UsersManagement.deps.json
+D:\Dgpays Code\DGAkademi\Back-End\Self Practice\bin\Debug\net5.0\UsersManagement.runtimeconfig.json
+D:\Dgpays Code\DGAkademi\Back-End\Self Practice\bin\Debug\net5.0\UsersManagement.runtimeconfig.dev.json
+D:\Dgpays Code\DGAkademi\Back-End\Self Practice\bin\Debug\net5.0\UsersManagement.dll
+D:\Dgpays Code\DGAkademi\Back-End\Self Practice\bin\Debug\net5.0\UsersManagement.pdb
+D:\Dgpays Code\DGAkademi\Back-End\Self Practice\bin\Debug\net5.0\Bogus.dll
+D:\Dgpays Code\DGAkademi\Back-End\Self Practice\bin\Debug\net5.0\Castle.Core.dll
+D:\Dgpays Code\DGAkademi\Back-End\Self Practice\bin\Debug\net5.0\FakeItEasy.dll
+D:\Dgpays Code\DGAkademi\Back-End\Self Practice\obj\Debug\net5.0\UsersManagement.csproj.AssemblyReference.cache
+D:\Dgpays Code\DGAkademi\Back-End\Self Practice\obj\Debug\net5.0\UsersManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dgpays Code\DGAkademi\Back-End\Self Practice\obj\Debug\net5.0\UsersManagement.AssemblyInfoInputs.cache
+D:\Dgpays Code\DGAkademi\Back-End\Self Practice\obj\Debug\net5.0\UsersManagement.AssemblyInfo.cs
+D:\Dgpays Code\DGAkademi\Back-End\Self Practice\obj\Debug\net5.0\UsersManagement.csproj.CoreCompileInputs.cache
+D:\Dgpays Code\DGAkademi\Back-End\Self Practice\obj\Debug\net5.0\UsersManagement.MvcApplicationPartsAssemblyInfo.cache
+D:\Dgpays Code\DGAkademi\Back-End\Self Practice\obj\Debug\net5.0\scopedcss\bundle\UsersManagement.styles.css
+D:\Dgpays Code\DGAkademi\Back-End\Self Practice\obj\Debug\net5.0\staticwebassets\UsersManagement.StaticWebAssets.Manifest.cache
+D:\Dgpays Code\DGAkademi\Back-End\Self Practice\obj\Debug\net5.0\UsersManagement.RazorTargetAssemblyInfo.cache
+D:\Dgpays Code\DGAkademi\Back-End\Self Practice\obj\Debug\net5.0\UsersManagement.csproj.CopyComplete
+D:\Dgpays Code\DGAkademi\Back-End\Self Practice\obj\Debug\net5.0\UsersManagement.dll
+D:\Dgpays Code\DGAkademi\Back-End\Self Practice\obj\Debug\net5.0\refint\UsersManagement.dll
+D:\Dgpays Code\DGAkademi\Back-End\Self Practice\obj\Debug\net5.0\UsersManagement.pdb
+D:\Dgpays Code\DGAkademi\Back-End\Self Practice\obj\Debug\net5.0\UsersManagement.genruntimeconfig.cache
+D:\Dgpays Code\DGAkademi\Back-End\Self Practice\obj\Debug\net5.0\ref\UsersManagement.dll
