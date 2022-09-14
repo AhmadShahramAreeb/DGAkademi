@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7FwzF7ahywwKFu9T96T+tOeUYPwcZchmtRAed0aWymMzwUyB0jieBZfD+ST3lwbKnCiW7xAtScbtLEm/2x6ubQ==",
+  "dgSpecHash": "2meHY6+Cj/da52itkuzbCmnna1bVlF9mGV4yBJMS+RYOz47+Ry06UWa+SNTF68CwkSfZjouhiq50RyzlKSQkZA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ahmad Shahram Areeb\\Desktop\\DgPays Back-End\\Teams Egitim\\CarFactory\\CarFactory.csproj",
+  "projectFilePath": "D:\\Dgpays Code\\DGAkademi\\Back-End\\W-01\\CarFactory.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ahmad Shahram Areeb\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "C:\\Users\\Ahmad Shahram Areeb\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

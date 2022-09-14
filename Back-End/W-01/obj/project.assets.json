@@ -7383,11 +7383,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ahmad Shahram Areeb\\Desktop\\DgPays Back-End\\Teams Egitim\\CarFactory\\CarFactory.csproj",
+      "projectUniqueName": "D:\\Dgpays Code\\DGAkademi\\Back-End\\W-01\\CarFactory.csproj",
       "projectName": "CarFactory",
-      "projectPath": "C:\\Users\\Ahmad Shahram Areeb\\Desktop\\DgPays Back-End\\Teams Egitim\\CarFactory\\CarFactory.csproj",
+      "projectPath": "D:\\Dgpays Code\\DGAkademi\\Back-End\\W-01\\CarFactory.csproj",
       "packagesPath": "C:\\Users\\Ahmad Shahram Areeb\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ahmad Shahram Areeb\\Desktop\\DgPays Back-End\\Teams Egitim\\CarFactory\\obj\\",
+      "outputPath": "D:\\Dgpays Code\\DGAkademi\\Back-End\\W-01\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

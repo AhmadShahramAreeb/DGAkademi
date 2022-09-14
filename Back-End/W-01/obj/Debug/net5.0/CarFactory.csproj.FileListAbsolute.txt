@@ -42,3 +42,47 @@ C:\Users\Ahmad Shahram Areeb\Desktop\DgPays Back-End\Teams Egitim\CarFactory\bin
 C:\Users\Ahmad Shahram Areeb\Desktop\DgPays Back-End\Teams Egitim\CarFactory\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\Ahmad Shahram Areeb\Desktop\DgPays Back-End\Teams Egitim\CarFactory\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
 C:\Users\Ahmad Shahram Areeb\Desktop\DgPays Back-End\Teams Egitim\CarFactory\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\Dgpays Code\DGAkademi\Back-End\W-01\bin\Debug\net5.0\appsettings.Development.json
+D:\Dgpays Code\DGAkademi\Back-End\W-01\bin\Debug\net5.0\appsettings.json
+D:\Dgpays Code\DGAkademi\Back-End\W-01\bin\Debug\net5.0\CarFactory.exe
+D:\Dgpays Code\DGAkademi\Back-End\W-01\bin\Debug\net5.0\CarFactory.deps.json
+D:\Dgpays Code\DGAkademi\Back-End\W-01\bin\Debug\net5.0\CarFactory.runtimeconfig.json
+D:\Dgpays Code\DGAkademi\Back-End\W-01\bin\Debug\net5.0\CarFactory.runtimeconfig.dev.json
+D:\Dgpays Code\DGAkademi\Back-End\W-01\bin\Debug\net5.0\CarFactory.dll
+D:\Dgpays Code\DGAkademi\Back-End\W-01\bin\Debug\net5.0\CarFactory.pdb
+D:\Dgpays Code\DGAkademi\Back-End\W-01\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Dgpays Code\DGAkademi\Back-End\W-01\bin\Debug\net5.0\Microsoft.AspNetCore.Authorization.dll
+D:\Dgpays Code\DGAkademi\Back-End\W-01\bin\Debug\net5.0\Microsoft.AspNetCore.Metadata.dll
+D:\Dgpays Code\DGAkademi\Back-End\W-01\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Dgpays Code\DGAkademi\Back-End\W-01\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Dgpays Code\DGAkademi\Back-End\W-01\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+D:\Dgpays Code\DGAkademi\Back-End\W-01\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\Dgpays Code\DGAkademi\Back-End\W-01\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Dgpays Code\DGAkademi\Back-End\W-01\bin\Debug\net5.0\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\Dgpays Code\DGAkademi\Back-End\W-01\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Dgpays Code\DGAkademi\Back-End\W-01\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Dgpays Code\DGAkademi\Back-End\W-01\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Dgpays Code\DGAkademi\Back-End\W-01\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Dgpays Code\DGAkademi\Back-End\W-01\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Dgpays Code\DGAkademi\Back-End\W-01\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Dgpays Code\DGAkademi\Back-End\W-01\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Dgpays Code\DGAkademi\Back-End\W-01\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Dgpays Code\DGAkademi\Back-End\W-01\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Dgpays Code\DGAkademi\Back-End\W-01\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Dgpays Code\DGAkademi\Back-End\W-01\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\Dgpays Code\DGAkademi\Back-End\W-01\obj\Debug\net5.0\CarFactory.csproj.AssemblyReference.cache
+D:\Dgpays Code\DGAkademi\Back-End\W-01\obj\Debug\net5.0\CarFactory.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dgpays Code\DGAkademi\Back-End\W-01\obj\Debug\net5.0\CarFactory.AssemblyInfoInputs.cache
+D:\Dgpays Code\DGAkademi\Back-End\W-01\obj\Debug\net5.0\CarFactory.AssemblyInfo.cs
+D:\Dgpays Code\DGAkademi\Back-End\W-01\obj\Debug\net5.0\CarFactory.csproj.CoreCompileInputs.cache
+D:\Dgpays Code\DGAkademi\Back-End\W-01\obj\Debug\net5.0\CarFactory.MvcApplicationPartsAssemblyInfo.cs
+D:\Dgpays Code\DGAkademi\Back-End\W-01\obj\Debug\net5.0\CarFactory.MvcApplicationPartsAssemblyInfo.cache
+D:\Dgpays Code\DGAkademi\Back-End\W-01\obj\Debug\net5.0\scopedcss\bundle\CarFactory.styles.css
+D:\Dgpays Code\DGAkademi\Back-End\W-01\obj\Debug\net5.0\staticwebassets\CarFactory.StaticWebAssets.Manifest.cache
+D:\Dgpays Code\DGAkademi\Back-End\W-01\obj\Debug\net5.0\CarFactory.RazorTargetAssemblyInfo.cache
+D:\Dgpays Code\DGAkademi\Back-End\W-01\obj\Debug\net5.0\CarFactory.csproj.CopyComplete
+D:\Dgpays Code\DGAkademi\Back-End\W-01\obj\Debug\net5.0\CarFactory.dll
+D:\Dgpays Code\DGAkademi\Back-End\W-01\obj\Debug\net5.0\refint\CarFactory.dll
+D:\Dgpays Code\DGAkademi\Back-End\W-01\obj\Debug\net5.0\CarFactory.pdb
+D:\Dgpays Code\DGAkademi\Back-End\W-01\obj\Debug\net5.0\CarFactory.genruntimeconfig.cache
+D:\Dgpays Code\DGAkademi\Back-End\W-01\obj\Debug\net5.0\ref\CarFactory.dll
