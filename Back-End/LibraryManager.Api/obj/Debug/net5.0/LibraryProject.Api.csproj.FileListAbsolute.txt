@@ -1,0 +1,294 @@
+D:\BookStoreProject.Api\obj\Debug\net5.0\LibraryProject.Api.csproj.AssemblyReference.cache
+D:\BookStoreProject.Api\obj\Debug\net5.0\LibraryProject.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\BookStoreProject.Api\obj\Debug\net5.0\LibraryProject.Api.AssemblyInfoInputs.cache
+D:\BookStoreProject.Api\obj\Debug\net5.0\LibraryProject.Api.AssemblyInfo.cs
+D:\BookStoreProject.Api\obj\Debug\net5.0\LibraryProject.Api.csproj.CoreCompileInputs.cache
+D:\BookStoreProject.Api\obj\Debug\net5.0\LibraryProject.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\BookStoreProject.Api\obj\Debug\net5.0\LibraryProject.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\BookStoreProject.Api\bin\Debug\net5.0\appsettings.Development.json
+D:\BookStoreProject.Api\bin\Debug\net5.0\appsettings.json
+D:\BookStoreProject.Api\bin\Debug\net5.0\LibraryProject.Api.exe
+D:\BookStoreProject.Api\bin\Debug\net5.0\LibraryProject.Api.deps.json
+D:\BookStoreProject.Api\bin\Debug\net5.0\LibraryProject.Api.runtimeconfig.json
+D:\BookStoreProject.Api\bin\Debug\net5.0\LibraryProject.Api.runtimeconfig.dev.json
+D:\BookStoreProject.Api\bin\Debug\net5.0\LibraryProject.Api.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\LibraryProject.Api.pdb
+D:\BookStoreProject.Api\bin\Debug\net5.0\Humanizer.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\BookStoreProject.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\BookStoreProject.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\BookStoreProject.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\BookStoreProject.Api\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\BookStoreProject.Api\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\BookStoreProject.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\BookStoreProject.Api\obj\Debug\net5.0\scopedcss\bundle\LibraryProject.Api.styles.css
+D:\BookStoreProject.Api\obj\Debug\net5.0\staticwebassets\LibraryProject.Api.StaticWebAssets.Manifest.cache
+D:\BookStoreProject.Api\obj\Debug\net5.0\LibraryProject.Api.RazorTargetAssemblyInfo.cache
+D:\BookStoreProject.Api\obj\Debug\net5.0\LibraryProject.Api.csproj.CopyComplete
+D:\BookStoreProject.Api\obj\Debug\net5.0\LibraryProject.Api.dll
+D:\BookStoreProject.Api\obj\Debug\net5.0\refint\LibraryProject.Api.dll
+D:\BookStoreProject.Api\obj\Debug\net5.0\LibraryProject.Api.pdb
+D:\BookStoreProject.Api\obj\Debug\net5.0\LibraryProject.Api.genruntimeconfig.cache
+D:\BookStoreProject.Api\obj\Debug\net5.0\ref\LibraryProject.Api.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\AutoMapper.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Authorization.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Metadata.dll
+D:\BookStoreProject.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\appsettings.Development.json
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\appsettings.json
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\LibraryProject.Api.exe
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\LibraryProject.Api.deps.json
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\LibraryProject.Api.runtimeconfig.json
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\LibraryProject.Api.runtimeconfig.dev.json
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\LibraryProject.Api.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\LibraryProject.Api.pdb
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\AutoMapper.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\Humanizer.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Authorization.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Metadata.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\obj\Debug\net5.0\LibraryProject.Api.csproj.AssemblyReference.cache
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\obj\Debug\net5.0\LibraryProject.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\obj\Debug\net5.0\LibraryProject.Api.AssemblyInfoInputs.cache
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\obj\Debug\net5.0\LibraryProject.Api.AssemblyInfo.cs
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\obj\Debug\net5.0\LibraryProject.Api.csproj.CoreCompileInputs.cache
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\obj\Debug\net5.0\LibraryProject.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\obj\Debug\net5.0\LibraryProject.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\obj\Debug\net5.0\scopedcss\bundle\LibraryProject.Api.styles.css
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\obj\Debug\net5.0\staticwebassets\LibraryProject.Api.StaticWebAssets.Manifest.cache
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\obj\Debug\net5.0\LibraryProject.Api.RazorTargetAssemblyInfo.cache
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\obj\Debug\net5.0\LibraryProject.Api.csproj.CopyComplete
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\obj\Debug\net5.0\LibraryProject.Api.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\obj\Debug\net5.0\refint\LibraryProject.Api.dll
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\obj\Debug\net5.0\LibraryProject.Api.pdb
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\obj\Debug\net5.0\LibraryProject.Api.genruntimeconfig.cache
+D:\Dgpays Code\DGAkademi\Back-End\LibraryManager.Api\obj\Debug\net5.0\ref\LibraryProject.Api.dll

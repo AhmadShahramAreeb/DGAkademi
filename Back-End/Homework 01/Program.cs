@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace _1st__HomeWork__CreditCard
+namespace CreditCardHomework
 {   
     class CreditCard
     {
@@ -106,17 +106,5 @@ namespace _1st__HomeWork__CreditCard
                 "\n  Expire Date:"+expireDate+"\n  CVV:"+cvv;
         }
     }
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            CreditCard creditcard = new CreditCard();
-
-
-            Console.WriteLine("\n***********************************************************************************");
-
-            Console.WriteLine(creditcard.getInfos());
-            
-        }
-    }
+    
 }

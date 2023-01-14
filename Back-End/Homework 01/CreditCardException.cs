@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _1st__HomeWork__CreditCard
+namespace CreditCardHomework
 {
     public class CreditCardException : Exception
     {
